@@ -444,7 +444,7 @@ body {
 
 .hero::before {
   inset: 0;
-  background-color: var(--rich-black-fogra-39_25);
+  background-color: var(--rich-black-fogra-39_50);
   mix-blend-mode: multiply;
   z-index: -1;
 }
